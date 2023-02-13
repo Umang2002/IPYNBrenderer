@@ -1,1 +1,1 @@
-# IPYNBrenderer pytohn package
+# IPYNBrenderer python package
